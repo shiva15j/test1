@@ -8,6 +8,7 @@ public class Day1 {
 
 		char c = 'a';
 
+		int e;
 		String name = "manish";
 
 		float f = 10.87345678365387568756f;
