@@ -8,16 +8,18 @@ public class demo {
 		// int a = 10;
 
 		int a[] = { 10, 20, 30, 40 };
-		
+
 		// size= 4
-		
+
 		// index = 0-3
-		
+
 		// index = size-1
 
 		for (int vl : a) {
 			System.out.println(vl);
 		}
+
+		System.out.println("Heyy!!!!");
 
 	}
 
