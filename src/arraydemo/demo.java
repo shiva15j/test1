@@ -9,6 +9,8 @@ public class demo {
 
 		int a[] = { 10, 20, 30, 40 };
 
+		int y;
+
 		// size= 4
 
 		// index = 0-3
